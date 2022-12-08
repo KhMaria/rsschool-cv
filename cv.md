@@ -34,10 +34,11 @@ function firstNonRepeatingLetter(s) {
 ```
 
 ## Education
-* Bachelor degree - Saint Petersburg Polytechnical university
-* Master degree - Togliatty State university
+* Bachelor degree - Peter the Great St.Petersburg Polytechnic University
+* Master degree - Togliatty State University
 * (in progress) [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ## English level
 B2 (according to [EPAM test](https://examinator.epam.com/Main/PersonalAssignments) )
+
 But I haven't had enough practice for a half a year. So maybe my current level is B1.
